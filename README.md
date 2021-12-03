@@ -4,6 +4,7 @@ Project created for programming paradigm studies
 
 ## Project Structure
 
+```
 Programming-paradigms
 ├── Action
 ├── Agent-oriented
@@ -53,3 +54,4 @@ Programming-paradigms
 ├── Template
 ├── Value-level-contrast-Function-level
 └── README.md
+```
