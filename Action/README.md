@@ -15,3 +15,12 @@ The term is also used for a 1-**tuple** (a sequence with one member).
 ## Tuple (mathematics)
 
 In mathematics, a tuple is a finite ordered list (sequence) of elements. An n-tuple is a sequence (or ordered list) of n elements, where n is a non-negative integer. There is only one 0-tuple, referred to as the empty tuple. An n-tuple is defined inductively using the construction of an ordered pair.
+
+
+## Linear temporal logic
+
+[MIT OpenCourseWare](https://youtu.be/Tmhe33f9mWA) | [Linear Temporal Logic (Lt)](https://www.youtube.com/watch?v=3zmuqEVmqH0&ab_channel=Carneades.org)
+
+In logic, linear temporal logic or linear-time temporal logic (LTL) is a modal temporal logic with modalities referring to time. In LTL, one can encode formulae about the future of paths, e.g., a condition will eventually be true, a condition will be true until another fact becomes true, etc. It is a fragment of the more complex CTL*, which additionally allows branching time and quantifiers. Subsequently, LTL is sometimes called propositional temporal logic, abbreviated PTL. In terms of expressive power, linear temporal logic (LTL) is a fragment of first-order logic.
+
+LTL was first proposed for the formal verification of computer programs by Amir Pnueli in 1977.
