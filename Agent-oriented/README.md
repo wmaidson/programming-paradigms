@@ -9,3 +9,9 @@ Exchanged messages are interpreted by receiving "agents", in a way specific to i
 <h1 align="center">
    <img alt="figure1" src="../.github/figure1.png" height="300px" />
 </h1>
+
+Historically, the concept of agent-oriented programming and the idea of centering software around the concept of an Agent was introduced by Yoav Shoham within his Artificial Intelligence studies in 1990. His agents are specific to his own paradigm as they have just one method, with a single parameter. To quote Yoav Shoham from his paper in 1990 for a basic difference between AOP and OOP
+
+<h1 align="center">
+   <img alt="figure1" src="../.github/figure2.png" height="300px" />
+</h1>
