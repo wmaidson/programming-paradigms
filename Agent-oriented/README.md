@@ -7,5 +7,5 @@ AOP has externally specified agents (with interfaces and messaging capabilities)
 Exchanged messages are interpreted by receiving "agents", in a way specific to its class of agents.
 
 <h1 align="center">
-   <img alt="figure1" src=".github/figure1.png" height="300px" />
+   <img alt="figure1" src="../.github/figure1.png" height="300px" />
 </h1>
