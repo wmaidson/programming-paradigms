@@ -2,6 +2,10 @@
 
 **Action language** is a language for specifying state transition systems, and is commonly used to create formal models of the effects of actions on the world. Action languages are commonly used in the artificial intelligence and robotics domains, where they describe how actions affect the states of systems over time, and may be used for automated planning.
 
+<h1 align="center">
+   <img alt="action-programming-language" src="../.github/action-programming-language.jpeg" height="300px" />
+</h1>
+
 ## Transition system
 
 In theoretical computer science, a transition system is a concept used in the study of computation. It is used to describe the potential behavior of discrete systems. It consists of states and transitions between states, which may be labeled with labels chosen from a set; the same label may appear on more than one transition. If the label set is a singleton, the system is essentially unlabeled, and a simpler definition that omits the labels is possible.
